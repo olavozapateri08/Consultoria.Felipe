@@ -79,6 +79,7 @@
        display: flex;
        align-items: center;
        text-decoration: none;
+       background-color: transparent !important;
    }
 
    .logo-img {
