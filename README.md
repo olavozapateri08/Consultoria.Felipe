@@ -940,7 +940,7 @@
             <div class="service-card">
                 <div class="service-img">
                     <span class="service-tag">Área 02</span>
-                    <img src="E:\Felipe\Trabalho Rural.jpg" alt="Trabalho Rural">
+                    <img src="Trabalho Rural.jpg" alt="Trabalho Rural">
                 </div>
                 <div class="service-content">
                     <h3>Trabalho Rural</h3>
