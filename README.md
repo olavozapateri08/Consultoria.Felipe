@@ -80,8 +80,9 @@
        align-items: center;
        text-decoration: none;
        background-color: transparent !important;
-      border: none;                             /* Remove bordas indesejadas */
-      box-shadow: none;
+       background-color: transparent !important;
+       border: none;                            
+       box-shadow: none;
    }
 
    .logo-img {
