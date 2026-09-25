@@ -1023,7 +1023,7 @@
        <div class="service-card">
            <div class="service-img">
                <span class="service-tag">Área 06</span>
-               <img src="https://images.unsplash.com/photo-1450133064473-71024230f91b?auto=format&fit=crop&w=800&q=80" alt="Renegociação de Dívidas Rurais">
+               <img src="images.png" alt="Renegociação de Dívidas Rurais">
            </div>
            <div class="service-content">
                <h3>Renegociação de Dívidas Rurais</h3>
