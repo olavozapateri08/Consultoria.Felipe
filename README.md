@@ -85,10 +85,11 @@
        box-shadow: none;
    }
 
-   .logo-img {
-       height: 50px;
-       width: auto;
-       object-fit: contain;
+.logo-img {
+    height: 50px;
+    width: auto;
+    object-fit: contain;
+    background-color: red !important; /* Teste temporário */
    }
 
    nav ul {
