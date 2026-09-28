@@ -86,7 +86,7 @@
    }
 
 .logo-img {
-    height: 50px;
+    height: 100px;
     width: auto;
     object-fit: contain;
     background-color: transparent !important; /* Teste temporário */
