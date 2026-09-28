@@ -79,7 +79,7 @@
        display: flex;
        align-items: center;
        text-decoration: none;
-       background-color: red !important;
+       background-color: trasparent !important;
        border: none;                            
        box-shadow: none;
    }
