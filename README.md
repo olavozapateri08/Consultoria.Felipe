@@ -79,8 +79,7 @@
        display: flex;
        align-items: center;
        text-decoration: none;
-       background-color: transparent !important;
-       background-color: transparent !important;
+       background-color: red !important;
        border: none;                            
        box-shadow: none;
    }
@@ -89,7 +88,7 @@
     height: 150px;
     width: auto;
     object-fit: contain;
-    background-color: red !important; /* Teste temporário */
+    background-color: transparent !important; /* Teste temporário */
    }
 
    nav ul {
