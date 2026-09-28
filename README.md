@@ -89,7 +89,7 @@
     height: 50px;
     width: auto;
     object-fit: contain;
-    background-color: red !important; /* Teste temporário */
+    background-color: transparent !important; /* Teste temporário */
    }
 
    nav ul {
