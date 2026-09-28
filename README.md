@@ -821,7 +821,7 @@
 <!-- Header -->
 <header>
    <a href="#" class="logo-container">
-       <img src="logo2.png" alt="THF Agro Consultoria" class="logo-img">
+       <img src="logo3.png" alt="THF Agro Consultoria" class="logo-img">
    </a>
    <nav>
        <ul>
@@ -1139,7 +1139,7 @@
    <div class="footer-grid">
        <div class="footer-brand">
            <div class="logo-container">
-               <img src="logo2.png" alt="THF Agro Consultoria" class="logo-img">
+               <img src="logo3.png" alt="THF Agro Consultoria" class="logo-img">
            </div>
            <p>Gestão de riscos, conformidade socioambiental e rastreabilidade para o Agronegócio.</p>
        </div>
