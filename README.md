@@ -939,7 +939,6 @@
                </ul>
            </div>
        </div>
-
        <!-- 02 Trabalho Rural -->
        <div class="service-card">
            <div class="service-img">
@@ -959,7 +958,6 @@
                </ul>
            </div>
        </div>
-
        <!-- 03 Rastreabilidade -->
        <div class="service-card">
            <div class="service-img">
@@ -970,7 +968,6 @@
                <h3>Rastreabilidade</h3>
                <div class="subtitle">Da origem ao consumidor final</div>
                <p style="font-size: 14px; color: var(--text-light);">A THF auxilia na construção de processos capazes de demonstrar a origem, trajetória e conformidade dos produtos ao longo de toda a cadeia produtiva.</p>
-
                <div class="traceability-flow">
                    <span class="flow-step">Origem</span>
                    <i class="fa-solid fa-chevron-right flow-arrow"></i>
@@ -984,7 +981,6 @@
                </div>
            </div>
        </div>
-
        <!-- 04 Relações Comerciais -->
        <div class="service-card">
            <div class="service-img">
@@ -1003,7 +999,6 @@
                </ul>
            </div>
        </div>
-
        <!-- 05 Crédito Rural e Financiamento -->
        <div class="service-card">
            <div class="service-img">
@@ -1022,12 +1017,11 @@
                </ul>
            </div>
        </div>
-
        <!-- 06 Renegociação de Dívidas Rurais -->
        <div class="service-card">
            <div class="service-img">
                <span class="service-tag">Área 06</span>
-               <img src="images.png" alt="Renegociação de Dívidas Rurais">
+               <img src="dividas.png" alt="Renegociação de Dívidas Rurais">
            </div>
            <div class="service-content">
                <h3>Renegociação de Dívidas Rurais</h3>
@@ -1043,7 +1037,6 @@
        </div>
    </div>
 </section>
-
 <!-- Perfis de Clientes -->
 <section id="clientes">
    <div class="section-header">
