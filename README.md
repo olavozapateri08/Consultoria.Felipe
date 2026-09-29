@@ -820,7 +820,7 @@
 <!-- Header -->
 <header>
    <a href="#" class="logo-container">
-       <img src="logo4.
+       <img src="logo4.png"
           .png" alt="THF Agro Consultoria" class="logo-img">
    </a>
    <nav>
