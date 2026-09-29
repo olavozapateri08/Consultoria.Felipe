@@ -821,7 +821,6 @@
 <header>
    <a href="#" class="logo-container">
        <img src="logo4.png" alt="THF Agro Consultoria" class="logo-img">
-          .png" alt="THF Agro Consultoria" class="logo-img">
    </a>
    <nav>
        <ul>
